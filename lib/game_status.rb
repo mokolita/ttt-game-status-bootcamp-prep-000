@@ -52,7 +52,7 @@ end
  end 
  
  def draw?(board)
- 
+  if full?(board) && !won?
  
  end 
  
