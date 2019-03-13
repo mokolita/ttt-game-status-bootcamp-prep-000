@@ -52,7 +52,9 @@ end
  end 
  
  def draw?(board)
-   
+ 
+ 
+ end 
  
 
 
