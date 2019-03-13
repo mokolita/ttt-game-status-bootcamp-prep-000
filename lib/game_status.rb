@@ -31,7 +31,7 @@ end
       if (position_1 == "X" && position_2 == "X" && position_3 == "X")
         return "X"
       elsif  (position_1 == "O" && position_2 == "O" && position_3 == "O")
-         return win_combination
+         return "O"
       else 
     end 
   end 
